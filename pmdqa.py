@@ -17,7 +17,7 @@
 
 from log import log
 import constants as C
-from dqa4bppilauncher import Dqa4Bppi
+from Dqa4PM import Dqa4PM
 import argparse
 
 if __name__ == "__main__":
@@ -34,7 +34,7 @@ if __name__ == "__main__":
 		parser.print_help()
 
 	trace = log(__name__)
-	myDQA = Dqa4Bppi(trace)
+	myDQA = Dqa4PM(trace)
 	trace.info("Starting Analysis")
 	myDQA.Process(args.filename, args.separator, args.pfi, args.sn, args.t)
 	trace.info("End of Analysis")

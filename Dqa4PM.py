@@ -9,7 +9,7 @@ from reportstore import ReportStore
 from pdfreportbuilder import DQA4BPPIReportBuilder
 import constants as C
 
-class Dqa4Bppi:
+class Dqa4PM:
     def __init__(self, trace):
         self.__trace = trace
         return
