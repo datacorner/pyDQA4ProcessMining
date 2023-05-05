@@ -30,5 +30,5 @@ Launch the program in the command line like this:
 $ python3 main.py InternationalDeclarations.csv id concept:name time:timestamp
 ```
 ## Sample report
-* [International Declarations](https://github.com/datacorner/pyProcessMiningTools/blob/main/pyDQA4BPPI/samples/InternationalDeclarations-report.pdf)
-* [Very simple report](https://github.com/datacorner/pyProcessMiningTools/blob/main/pyDQA4BPPI/samples/data-report.pdf)
+* [International Declarations](https://github.com/datacorner/pyDQA4ProcessMining/tree/main/samples/InternationalDeclarations-report.pdf)
+* [Very simple report](https://github.com/datacorner/pyDQA4ProcessMining/tree/main/samples/data-report.pdf)
