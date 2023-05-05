@@ -1,0 +1,11 @@
+,REJECT,Date,TimelineID,Event,Employee,Location,DayOfWeek,Shift
+27,BPPI Timeline ID is Empty,02/24/2016 03:20:00,,Stock Check,Thomas Moore,Omaha,Thurs,3rd
+46,BPPI Timeline ID is Empty,02/16/2016 04:00:00,,Goods Shipped,Rod Lewer,New York,Tues,1st
+66,BPPI Timeline ID is Empty,02/07/2016 07:34:00,,Existing Customer Check,Thomas Moore,New York,Mon,3rd
+84,BPPI Timeline ID is Empty,02/17/2016 23:58:00,,Order Hold,Thomas Moore,Philadelphia,Mon,1st
+98,BPPI Timeline ID is Empty,02/08/2016 00:49:00,,Existing Customer Check,Thomas Moore,Philadelphia,Thurs,3rd
+7,BPPI Event ID is Empty,02/24/2016 18:17:00,100000.0,,Tori Stevens,Dallas,Thurs,3rd
+20,BPPI Event ID is Empty,01/09/2016 13:29:00,100002.0,,Thomas Moore,New York,Tues,3rd
+38,BPPI Event ID is Empty,01/24/2016 13:14:00,100004.0,,Thomas Moore,Dallas,Mon,1st
+39,BPPI Event ID is Empty,01/25/2016 18:12:00,100004.0,,Thomas Moore,Dallas,Mon,1st
+8,BPPI Timestamp is Empty,,100000.0,Order Complete,Tori Stevens,Dallas,Thurs,3rd

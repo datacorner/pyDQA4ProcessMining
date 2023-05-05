@@ -1,0 +1,103 @@
+Date,TimelineID,Event,Employee,Location,DayOfWeek,Shift
+XX/18/2016 16:29:00,100000,Order Received,Tori Stevens,Dallas,Thurs,3rd
+02/19/2016 07:48:00,100000,Existing Customer Check,Tori Stevens,Dallas,Thurs,3rd
+02/19/2016 07:48:00,100000,Existing Customer Check,Tori Stevens,Dallas,Thurs,3rd, XXX
+02/19/2016 16:39:00,100000,Stock Check,Tori Stevens,Dallas,Thurs,3rd
+02/19/2016 16:39:00,100000,Stock Check,Tori Stevens 2,Dallas 2,Thurs,3rd
+02/20/2016 13:11:00,100000,Order ! Hold,Tori Stevens,Dallas,Thurs,3rd
+02/22/2016 19:54:00,100000,Stock Packed,Tori Stevens,Dallas,Thurs,3rd
+02/23/2016 14:02:00,100000,Goods Shipped,Tori Stevens,Dallas,Thurs,3rd
+02/23/2016 14:02:00,100000,Goods  Shipped,Tori Stevens,Dallas,Thurs,3rd,YYY,TTT
+02/24/2016 18:17:00,100000,,Tori Stevens,Dallas,Thurs,3rd
+,100000,Order Complete,Tori Stevens,Dallas,Thurs,3rd
+01/14/2016 22:23:00,100001,Order Received,Thomas Moore,New York,Sat,3rd
+01/15/2016 13:55:00,100001,Existing Customer Check,Thomas Moore,New York,Sat,3rd
+01/15/2016 21:28:00,100001,Stock Check,Thomas Moore,New York,Sat,3rd
+01/17/2016 05:59:00,100001,Order Hold,Thomas Moore,New York,Sat,3rd
+01/19/2016,100001,Stock Packed,Thomas Moore,New York,Sat,3rd
+19/01/2016 20:49:00,100001,Goods Shipped,Thomas Moore,New York,Sat,3rd
+01/21/2016 09:37:00,100001,Goods Accepted,Thomas Moore,New York,Sat,3rd
+01/22/2016 06:29:00,100001,Order Complete,Thomas Moore,New York,Sat,3rd
+01/07/2016 15:48:00,100002,Order Received,Thomas Moore,New York,Tues,3rd
+01/08/2016 01:58:00,100002,Existing Customer Check,Thomas Moore,New York,Tues,3rd
+01/08/2016 10:11:00,100002,Stock Check,Thomas Moore,New York,Tues,3rd
+01/09/2016 13:29:00,100002,,Thomas Moore,New York,Tues,3rd
+01/12/2016 07:10:00,100002,Stock Packed,Thomas Moore,New York,Tues,3rd
+01/13/2016 01:19:00,100002,Goods Shipped,Thomas Moore,New York,Tues,3rd
+01/14/2016 22:20:00,100002,Goods Accepted,Thomas Moore,New York,Tues,3rd
+01/15/2016 20:00:00,100002,Order Complete,Thomas Moore,New York,Tues,3rd
+02/23/2016 03:31:00,100003,Order Received,Thomas Moore,Omaha,Thurs,3rd
+02/23/2016 19:11:00,100003,Existing Customer Check,Thomas Moore,Omaha,Thurs,3rd
+02/24/2016 03:20:00,,Stock Check,Thomas Moore,Omaha,Thurs,3rd
+02/24/2016 21:32:00,100003,Order Hold,Thomas Moore,Omaha,Thurs,3rd
+02/27/2016 10:10:00,100003,Stock Packed,Thomas Moore,Omaha,Thurs,3rd
+02/27/2016 22:51:00,100003,Goods Shipped,Thomas Moore,Omaha,Thurs,3rd
+03/01/2016 00:59:00,100003,Goods Accepted,Thomas Moore,Omaha,Thurs,3rd
+03/02/2016 09:22:00,100003,Order Complete,Thomas Moore,Omaha,Thurs,3rd
+01/20/2016 00:45:00,100004,Order Received,Thomas Moore,Dallas,Mon,1st
+01/20/2016 09:57:00,100004,Existing Customer Check,Thomas Moore,Dallas,Mon,1st
+01/20/2016 20:55:00,100004,Stock Check,Thomas Moore,Dallas,Mon,1st
+01/21/2016 11:35:00,100004,Order Hold,Thomas Moore,Dallas,Mon,1st
+01/23/2016 20:41:00,100004,Stock Packed,Thomas Moore,Dallas,Mon,1st
+01/24/2016 13:14:00,100004,,Thomas Moore,Dallas,Mon,1st
+01/25/2016 18:12:00,100004,,Thomas Moore,Dallas,Mon,1st
+01/26/2016 12:15:00,100004,Order Complete,Thomas Moore,Dallas,Mon,1st
+02/10/2016 14:50:00,100005,Order Received,Rod Lewer,New York,Tues,1st
+02/11/2016 07:05:00,100005,Existing Customer Check,Rod Lewer,New York,Tues,1st
+02/11/2016 14:09:00,100005,Stock Check,Rod Lewer,New York,Tues,1st
+02/12/2016 20:26:00,100005,Order Hold,Rod Lewer,New York,Tues,1st
+02/15/2016 09:53:00,100005,Stock Packed,Rod Lewer,New York,Tues,1st
+02/16/2016 04:00:00,,Goods Shipped,Rod Lewer,New York,Tues,1st
+02/17/2016 22:28:00,100005,Goods Accepted,Rod Lewer,New York,Tues,1st
+02/19/2016 03:54:00,100005,Order Complete,Rod Lewer,New York,Tues,1st
+02/18/2016 14:51:00,100006,Order Received,Angela Pruitt,New York,Thurs,1st
+02/19/2016 01:50:00,100006,Existing Customer Check,Angela Pruitt,New York,Thurs,1st
+02/19/2016 07:07:00,100006,Stock Check,Angela Pruitt,New York,Thurs,1st
+02/20/2016 12:54:00,100006,Order Hold,Angela Pruitt,New York,Thurs,1st
+02/23/2016 02:59:00,100006,Stock Packed,Angela Pruitt,New York,Thurs,1st
+02/23/2016 21:39:00,100006,Goods Shipped,Angela Pruitt,New York,Thurs,1st
+02/25/2016 16:34:00,100006,Goods Accepted,Angela Pruitt,New York,Thurs,1st
+02/26/2016 13:43:00,100006,Order Complete,Angela Pruitt,New York,Thurs,1st
+02/29/2016 13:06:00,100007,Order Received,Thomas Moore,Dallas,Mon,1st
+03/01/2016 08:16:00,100007,Existing Customer Check,Thomas Moore,Dallas,Mon,1st
+03/01/2016 14:10:00,100007,Stock Check,Thomas Moore,Dallas,Mon,1st
+03/02/2016 11:23:00,100007,Order Hold,Thomas Moore,Dallas,Mon,1st
+03/04/2016 01:00:00,100007,Stock Packed,Thomas Moore,Dallas,Mon,1st
+03/04/2016 09:07:00,100007,Goods Shipped,Thomas Moore,Dallas,Mon,1st
+03/05/2016 23:11:00,100007,Goods Accepted,Thomas Moore,Dallas,Mon,1st
+03/06/2016 20:36:00,100007,Order Complete,Thomas Moore,Dallas,Mon,1st
+02/06/2016 15:55:00,100008,Order Received,Thomas Moore,New York,Mon,3rd
+02/07/2016 07:34:00,,Existing Customer Check,Thomas Moore,New York,Mon,3rd
+02/07/2016 11:40:00,100008,Stock Check,Thomas Moore,New York,Mon,3rd
+02/08/2016 21:32:00,100008,Order Hold,Thomas Moore,New York,Mon,3rd
+02/12/2016 15:23:00,100008,Stock Packed,Thomas Moore,New York,Mon,3rd
+02/13/2016 02:33:00,100008,Goods Shipped,Thomas Moore,New York,Mon,3rd
+02/14/2016 20:06:00,100008,Goods Accepted,Thomas Moore,New York,Mon,3rd
+02/15/2016 23:24:00,100008,Order Complete,Thomas Moore,New York,Mon,3rd
+03/01/2016 10:12:00,100009,Order Received,Thomas Moore,San Francisco,Sun,3rd
+03/01/2016 18:46:00,100009,Existing Customer Check,Thomas Moore,San Francisco,Sun,3rd
+03/02/2016 05:51:00,100009,Stock Check,Thomas Moore,San Francisco,Sun,3rd
+03/03/2016 04:27:00,100009,Order Hold,Thomas Moore,San Francisco,Sun,3rd
+03/05/2016 11:42:00,100009,Stock Packed,Thomas Moore,San Francisco,Sun,3rd
+03/06/2016 03:31:00,100009,Goods Shipped,Thomas Moore,San Francisco,Sun,3rd
+03/07/2016 21:33:00,100009,Goods Accepted,Thomas Moore,San Francisco,Sun,3rd
+03/08/2016 21:43:00,100009,Order Complete,Thomas Moore,San Francisco,Sun,3rd
+02/15/2016 23:33:00,100010,Order Received,Thomas Moore,Philadelphia,Mon,1st
+02/16/2016 13:48:00,100010,Existing Customer Check,Thomas Moore,Philadelphia,Mon,1st
+02/16/2016 20:30:00,100010,Stock Check,Thomas Moore,Philadelphia,Mon,1st
+02/17/2016 23:58:00,,Order Hold,Thomas Moore,Philadelphia,Mon,1st
+02/21/2016 04:29:00,100010,Stock Packed,Thomas Moore,Philadelphia,Mon,1st
+02/21/2016 21:43:00,100010,Goods Shipped,Thomas Moore,Philadelphia,Mon,1st
+02/23/2016 10:44:00,100010,Goods Accepted,Thomas Moore,Philadelphia,Mon,1st
+02/24/2016 09:54:00,100010,Order Complete,Thomas Moore,Philadelphia,Mon,1st
+03/17/2016 16:51:00,100011,Order Received,Thomas Moore,San Francisco,Sun,1st
+03/18/2016 03:54:00,100011,Existing Customer Check,Thomas Moore,San Francisco,Sun,1st
+03/18/2016 13:47:00,100011,Stock Check,Thomas Moore,San Francisco,Sun,1st
+03/19/2016 20:37:00,100011,Order Hold,Thomas Moore,San Francisco,Sun,1st
+03/21/2016 08:06:00,100011,Stock Packed,Thomas Moore,San Francisco,Sun,1st
+03/22/2016 01:42:00,100011,Goods Shipped,Thomas Moore,San Francisco,Sun,1st
+03/23/2016 17:47:00,100011,Goods Accepted,Thomas Moore,San Francisco,Sun,1st
+03/24/2016 20:11:00,100011,Order Complete,Thomas Moore,San Francisco,Sun,1st
+02/07/2016 10:50:00,100012,Order Received,Thomas Moore,Philadelphia,Thurs,3rd
+02/08/2016 00:49:00,,Existing Customer Check,Thomas Moore,Philadelphia,Thurs,3rd
+02/08/2016 08:03:00,100012,Stock Check,Thomas Moore,Philadelphia,Thurs,3rd

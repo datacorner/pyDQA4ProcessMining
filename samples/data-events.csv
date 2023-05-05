@@ -1,0 +1,10 @@
+Column,New Event,Frequency
+Order Received,Order received,13
+Stock Check,Stock check,13
+Stock Packed,Stock packed,12
+Existing Customer Check,Existing customer check,11
+Order Complete,Order complete,11
+Goods Shipped,Goods shipped,10
+Goods Accepted,Goods accepted,10
+Order Hold,Order hold,9
+Order ! Hold,Order hold,1
