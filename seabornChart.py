@@ -1,3 +1,7 @@
+__author__ = "Benoit CAYLA"
+__email__ = "benoit@datacorner.fr"
+__license__ = "GPL"
+
 from matplotlib import rcParams
 import matplotlib.pyplot as plt
 import numpy as np

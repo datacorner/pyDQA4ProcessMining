@@ -1,3 +1,7 @@
+__author__ = "Benoit CAYLA"
+__email__ = "benoit@datacorner.fr"
+__license__ = "GPL"
+
 import pandas as pd
 import constants as C
 from datetime import datetime

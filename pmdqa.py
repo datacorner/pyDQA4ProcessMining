@@ -1,7 +1,8 @@
+__author__ = "Benoit CAYLA"
+__email__ = "benoit@datacorner.fr"
+__license__ = "GPL"
+
 # -*- coding: utf-8 -*-
-#----------------------------------------------------------------------------
-# Created By  : Benoit Cayla   
-# version ='1.0'
 # ---------------------------------------------------------------------------
 # Main program ( 4 mandatory arguments )
 # This program aims to check the data (given by a CSV file) before importing to BPPI. 

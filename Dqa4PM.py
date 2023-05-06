@@ -1,7 +1,8 @@
-import sys
-from log import log
+__author__ = "Benoit CAYLA"
+__email__ = "benoit@datacorner.fr"
+__license__ = "GPL"
+
 from datasource import DataSource
-from matplotlibChart import MatplotlibChart
 from seabornChart import SeabornChart
 from chart import Chart
 from DQAReportData import DQAReportData
