@@ -1,5 +1,5 @@
 # Project pyDQA4ProcessMining
-This program aims to check the data (given by a CSV file) before importing a Process Mining solition (like Blue Prism Process Intelligence, alias BPPI). It's strongly recommended to profile the data before importing them into the Process Mining solution so as to avoid any issues(technical or worse misunderstanding on the data). 
+This program aims to check the data (given by a CSV file) before importing a Process Mining solition. It's strongly recommended to profile the data before importing them into the Process Mining solution so as to avoid any issues(technical or worse misunderstanding on the data). 
 The program provides as output (in the same directory) a pdf report with all the control results and charts.
 # Requirements (Python)
 * [Python 3.10.x minimum](https://www.python.org/downloads/release/python-3100)
